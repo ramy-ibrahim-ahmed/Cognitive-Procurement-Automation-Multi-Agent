@@ -1,4 +1,4 @@
-# Procurement Automation CrewAI Project
+# Cognitive Procurement Automation (Multi-Agent)
 
 A CrewAI-based solution to automate product procurement research, price comparison, and report generation.
 
