@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "page_url": "https://www.amazon.com/Espresso-Coffee-Machine-Best-Price/dp/B0XXXXXXXXX?ref=pub_freq_n_osp_raf",
+      "product_title": "Espresso Coffee Machine - Best Price",
+      "price": 129.99,
+      "rating": 4.8,
+      "specs": {
+        "material": "Stainless Steel",
+        "water_filter": true,
+        "heating_type": "Thermoblock"
+      },
+      "recommendation_rank": 2
+    },
+    {
+      "product_id": 2,
+      "page_url": "https://www.amazon.com/Keurig-Coffee-Maker-Compatible-K-Cups/dp/B0XXXXXXXXX?ref=pub_freq_n_osp_raf",
+      "product_title": "Keurig Coffee Maker - K Cup Compatible",
+      "price": 119.99,
+      "rating": 4.7,
+      "specs": {
+        "water_tank_size": "8oz",
+        " brew_time_adjustment": true
+      },
+      "recommendation_rank": 5
+    },
+    {
+      "product_id": 3,
+      "page_url": "https://www.amazon.com/Espresso-Coffee-Machine-Single-Shot/dp/B0XXXXXXXXX?ref=pub_freq_n_osp_raf",
+      "product_title": "Espresso Coffee Machine - Single Shot",
+      "price": 199.99,
+      "rating": 4.6,
+      "specs": {
+        "grinders": true,
+        "milk_frother": false
+      },
+      "recommendation_rank": 3
+    },
+    {
+      "product_id": 4,
+      "page_url": "https://www.jumia.com/Breville-Espresso-Maker-Professional-Use/dp/B0XXXXXXXXX?ref=pub_freq_n_osp_raf",
+      "product_title": "Breville Espresso Maker - Professional Use",
+      "price": 299.99,
+      "rating": 4.5,
+      "specs": {
+        "pressure": "15bar",
+        "bean_grinder": true
+      },
+      "recommendation_rank": 1
+    },
+    {
+      "product_id": 5,
+      "page_url": "https://www.jumia.com/Breville-Espresso-Maker-Best-Price/dp/B0XXXXXXXXX?ref=pub_freq_n_osp_raf",
+      "product_title": "Breville Espresso Maker - Best Price",
+      "price": 199.99,
+      "rating": 4.4,
+      "specs": {
+        "pressure": "10bar",
+        "water_filter": true
+      },
+      "recommendation_rank": 4
+    }
+  ],
+  "sorting_criteria": {
+    "rating": "descending",
+    "price": "ascending",
+    "popularity": "descending"
+  },
+  "final_recommendations": [
+    {
+      "product_id": 1,
+      "title": "Espresso Coffee Machine - Best Price",
+      "rank": 1
+    },
+    {
+      "product_id": 4,
+      "title": "Breville Espresso Maker - Professional Use",
+      "rank": 2
+    },
+    {
+      "product_id": 3,
+      "title": "Espresso Coffee Machine - Single Shot",
+      "rank": 3
+    },
+    {
+      "product_id": 5,
+      "title": "Breville Espresso Maker - Best Price",
+      "rank": 4
+    },
+    {
+      "product_id": 2,
+      "title": "Keurig Coffee Maker - K Cup Compatible",
+      "rank": 5
+    }
+  ]
+}

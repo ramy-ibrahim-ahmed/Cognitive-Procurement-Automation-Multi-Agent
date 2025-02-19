@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "title": "Breville Espresso Machine",
+      "url": "https://www.amazon.com/Breville-Espresso-Machine/dp/B078JHYZYB/ref=ps_37619_14676_18955_1/eq/bsr=0-99/catalage/landingpage=B00MRSV9PF?g=prc-1",
+      "content": "Breville Espresso Machine - High-Quality Coffee Brewing",
+      "score": 0.8,
+      "search_query": "best price Breville espresso machine www.amazon.com"
+    },
+    {
+      "title": "Cuisinart Automatic Coffee Maker Under $200",
+      "url": "https://www.jumia.com/Cuisinart-Automatic-Coffee-Maker-Under-200/dp/10042536/ref=prod.search/7/?q=Cuisinart%20automatic%20coffee%20maker&src=product.detail",
+      "content": "Cuisinart Automatic Coffee Maker - Brew Perfect Coffee Under $200",
+      "score": 0.75,
+      "search_query": "Cuisinart automatic coffee maker under $200 www.jumia.com"
+    },
+    {
+      "title": "Keurig Single-Serve Brewer with Strength Control",
+      "url": "https://www.amazon.com/Keurig-SingleServe-Brewer-Strength-Control/dp/B07B08YJ3F/ref=ps_37619_14676_18955_1/eq/bsr=0-99/catalage/landingpage=B00MRSV9PF?g=prc-1",
+      "content": "Keurig Single-Serve Brewer - Adjustable Strength Coffee",
+      "score": 0.85,
+      "search_query": "Keurig single-serve brewer with strength control www.amazon.com"
+    },
+    {
+      "title": "Bodum Electric Coffee Press for Office Use",
+      "url": "https://www.jumia.com/Bodum-Electric-Coffee-Press-for-Office-Use/dp/10042536/ref=prod.search/7/?q=Bodum%20electric%20coffee%20press&src=product.detail",
+      "content": "Bodum Electric Coffee Press - Perfect for Office Environments",
+      "score": 0.7,
+      "search_query": "Bodum electric coffee press for office use www.jumia.com"
+    },
+    {
+      "title": "La Marzocchi Portafilter Espresso Machine",
+      "url": "https://www.amazon.com/La-Marzocchi-Portafilter-Espresso-Machine/dp/B078JHYZYB/ref=ps_37619_14676_18955_1/eq/bsr=0-99/catalage/landingpage=B00MRSV9PF?g=prc-1",
+      "content": "La Marzocchi Portafilter Espresso Machine - Top-Rated Model",
+      "score": 0.82,
+      "search_query": "La Marzocchi portafilter espresso machine top-rated www.amazon.com"
+    }
+  ]
+}
