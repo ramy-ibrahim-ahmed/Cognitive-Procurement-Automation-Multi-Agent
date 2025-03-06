@@ -50,8 +50,6 @@ procurement-ai/
 
 ---
 
-## Sample Report
-
 # Procurement Report: Coffee Makers
 
 ## Executive Summary
