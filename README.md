@@ -33,18 +33,6 @@ procurement-ai/
 ├── .env                   # Environment variables
 └── Results.md             # Sample output report
 ```
-
-### Set Up Environment Variables (.env)
-
-   ```ini
-   AGENTOPS_API_KEY=your_agentops_key
-   TAVILY_API_KEY=your_tavily_key
-   SCRAPEGRAPG_PY_API_KEY=your_scrapegraph_key
-   LLM=ollama/deepseek-r1:8b
-   NUM_SEARCH_QUERIES=5
-   OUTPUT_DIR=./output
-   ```
-
 ### Tools providers and Agents tracking
 
 | Service     | Purpose          | API Key Source                            |
@@ -53,12 +41,6 @@ procurement-ai/
 | Scrapegraph | Web scraping     | [Scrapegraph](https://scrapegraphai.com/) |
 | AgentOps    | Agent monitoring | [AgentOps](https://agentops.ai/)          |
 
-### Run the procurement crew
-
-```python
-python src/main.py
-```
-
 **Input Parameters:**
 
 - `product_name`: "coffee machine for the office"
@@ -66,9 +48,9 @@ python src/main.py
 - `country_name`: "USA"
 - `language`: "English"
 
-## Sample Report
-
 ---
+
+## Sample Report
 
 # Procurement Report: Coffee Makers
 
